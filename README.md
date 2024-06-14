@@ -45,5 +45,5 @@ I'm always looking for challenges that allow me to learn and apply new knowledge
 ## Contatos:
 
 <div>
-[LinkedIn]([https://www.linkedin.com/in/matheus-fideles-735882169/])
+<a href="https://www.linkedin.com/in/matheus-fideles-735882169/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
