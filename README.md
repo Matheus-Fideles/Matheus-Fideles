@@ -19,9 +19,9 @@ Atualmente, faço parte do time de DevOps Capabilities na F1rst, onde utilizamos
 
 Estou sempre em busca de desafios que me permitam aprender e aplicar novos conhecimentos. Vamos conectar e explorar novas possibilidades juntos! 😊
 
-<div>
-# Hello, tech enthusiasts! 👋
 
+# Hello, tech enthusiasts! 👋
+<div>
 I'm a technology generalist with a passion for software engineering and data engineering. 😅
 
 Currently, I'm part of the DevOps Capabilities team at F1rst, where we leverage our data knowledge to drive efficient operations. My journey spans across various teams, from BackEnd and FrontEnd to DevOps, always focusing on data-driven solutions.
